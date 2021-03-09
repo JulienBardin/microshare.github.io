@@ -1,6 +1,6 @@
 ---
-layout: docs
 title: Identity Guide
+layout: docs
 toc: true
 ---
 

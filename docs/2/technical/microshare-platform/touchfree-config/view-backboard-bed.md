@@ -1,6 +1,6 @@
 ---
-layout: docs
 title: Touchfree Feedback Backboard Bed Example JSON Code
+layout: docs
 description: 
 toc: true
 ---

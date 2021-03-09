@@ -1,10 +1,9 @@
 ---
-layout: docs
 title: Microshare™ Documentation Model Page
+layout: docs
 description: Serves as a reference that all other pages should model
 toc: true
 ---
-
 
 ## Summary
 ---------------------------------------

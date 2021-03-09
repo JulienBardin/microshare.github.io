@@ -1,8 +1,4 @@
 ---
-layout: docs
-title:Trending Air Quality MCF88 JSON
-description: 
-toc: true
 ---
 
 ---------------------------------------

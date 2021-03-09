@@ -1,10 +1,9 @@
 ---
-layout: docs
 title: AWS Kinesis Data Stream Integration
+layout: docs
 description: 
 toc: true
 ---
-
 
 ---------------------------------------
 

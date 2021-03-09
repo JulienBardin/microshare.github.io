@@ -1,6 +1,6 @@
 ---
-layout: docs
 title: AWS SQS Integration
+layout: docs
 description: 
 toc: true
 ---

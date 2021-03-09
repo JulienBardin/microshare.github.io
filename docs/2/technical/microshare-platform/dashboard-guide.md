@@ -1,11 +1,9 @@
 ---
-layout: docs
 title: Dashboard Guide
+layout: docs
 description: Understanding your Apps
 toc: true
 ---
-
-
 
 ##### SUMMARY : 
 

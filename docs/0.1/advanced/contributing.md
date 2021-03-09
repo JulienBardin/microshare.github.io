@@ -1,6 +1,6 @@
 ---
-layout: docs
 title: Contributing
+layout: docs
 description: Contributing to this documentation
 group: advanced
 toc: true

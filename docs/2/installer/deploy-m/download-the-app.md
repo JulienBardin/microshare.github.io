@@ -1,6 +1,6 @@
 ---
-layout: docs
 title: Download the app
+layout: docs
 description: Comprehensive guide to install some sensors with Deploy-M
 group: deploy-m
 toc: true

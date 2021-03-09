@@ -1,6 +1,6 @@
 ---
-layout: docs
 title: Trending Refrigerator JSON
+layout: docs
 description: 
 toc: true
 ---

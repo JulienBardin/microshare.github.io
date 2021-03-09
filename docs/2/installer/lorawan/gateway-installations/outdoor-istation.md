@@ -1,6 +1,6 @@
 ---
-layout: docs
 title: Kerlink iStation
+layout: docs
 description: How to set it up?
 toc: true
 ---

@@ -1,6 +1,6 @@
 ---
-layout: generic_rest_api
 title: Generic REST API Reference
+layout: generic_rest_api
 description: Generic REST API
 group: advanced
 redirect_from: "/advanced/"

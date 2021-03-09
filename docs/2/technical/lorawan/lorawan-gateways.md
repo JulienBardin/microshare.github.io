@@ -1,6 +1,6 @@
 ---
-layout: docs
 title: LoRaWAN Gateways
+layout: docs
 toc: true
 ---
 

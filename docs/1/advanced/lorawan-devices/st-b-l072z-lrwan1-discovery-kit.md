@@ -1,7 +1,7 @@
 ---
-layout: docs
 title: B-L072Z-LRWAN1 Discovery kit
-description:
+layout: docs
+description: 
 group: advanced
 toc: true
 ---

@@ -1,7 +1,7 @@
 ---
-layout: docs
 title: Kerlink WMC
-description: Pushing Data to Microshare from Kerlink WMC 
+layout: docs
+description: Pushing Data to Microshare from Kerlink WMC
 toc: true
 ---
 

@@ -1,7 +1,7 @@
 ---
-layout: docs
 title: HackIoT Philly Workshop
-description:
+layout: docs
+description: 
 group: advanced
 toc: true
 ---

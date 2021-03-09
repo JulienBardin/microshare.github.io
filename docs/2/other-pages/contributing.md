@@ -1,10 +1,9 @@
 ---
-layout: docs
 title: Contributing
+layout: docs
 description: 
 toc: true
 ---
-
 
 You can find the repository here: [Microshare® Documentation]({{ site.repo }}).
 

@@ -1,6 +1,6 @@
 ---
-layout: api
 title: API Reference
+layout: api
 description: Microshare HTTP API
 group: advanced
 redirect_from: "/advanced/"

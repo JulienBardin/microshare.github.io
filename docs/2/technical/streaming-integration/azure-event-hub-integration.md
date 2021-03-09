@@ -1,10 +1,9 @@
 ---
-layout: docs
 title: Microsoft Azure Hub Integration
+layout: docs
 description: 
 toc: true
 ---
-
 
 ## 1. Overview
 ---------------------------------------

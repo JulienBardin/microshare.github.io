@@ -1,6 +1,6 @@
 ---
-layout: docs
 title: Simple Requests
+layout: docs
 description: 
 toc: true
 ---

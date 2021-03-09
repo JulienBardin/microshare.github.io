@@ -1,7 +1,8 @@
 ---
-layout: docs
 title: Demo
-description: Our demo dashboards do not use real data and are provided solely for demo purposes
+layout: docs
+description: Our demo dashboards do not use real data and are provided solely for
+  demo purposes
 toc: true
 ---
 

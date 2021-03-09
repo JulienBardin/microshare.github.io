@@ -1,7 +1,7 @@
 ---
-layout: docs
 title: Decoding Sagemcom Siconia
-description:
+layout: docs
+description: 
 group: advanced
 toc: true
 ---

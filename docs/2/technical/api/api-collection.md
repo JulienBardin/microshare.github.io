@@ -1,6 +1,6 @@
 ---
-layout: api
 title: API Collection
+layout: api
 description: Microshare™  HTTP API
 toc: true
 ---

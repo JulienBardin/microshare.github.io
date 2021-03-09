@@ -1,7 +1,7 @@
 ---
-layout: docs
 title: Arduino IDE
-description:
+layout: docs
+description: 
 group: advanced
 toc: true
 ---

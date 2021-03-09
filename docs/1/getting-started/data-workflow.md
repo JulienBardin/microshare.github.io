@@ -1,6 +1,6 @@
 ---
-layout: docs
 title: Data Workflow
+layout: docs
 description: 
 group: getting-started
 toc: true

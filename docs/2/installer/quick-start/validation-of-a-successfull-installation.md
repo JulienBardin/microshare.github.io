@@ -1,6 +1,6 @@
 ---
-layout: docs
 title: Validation of a successfull installation
+layout: docs
 description: How do I know if I installed my devices properly?
 toc: true
 ---

@@ -1,6 +1,6 @@
 ---
-layout: docs
 title: Data Workflow
+layout: docs
 description: Robot examples to build a Data Workflow
 group: getting-started
 toc: true

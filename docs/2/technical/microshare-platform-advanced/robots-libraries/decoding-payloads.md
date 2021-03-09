@@ -1,7 +1,7 @@
 ---
-layout: docs
 title: Decoding Payloads with Robots
-description:
+layout: docs
+description: 
 group: advanced
 toc: true
 ---

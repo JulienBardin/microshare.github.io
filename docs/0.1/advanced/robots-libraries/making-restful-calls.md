@@ -1,11 +1,10 @@
 ---
-layout: docs
 title: Making RESTful calls from Robots
-description:
+layout: docs
+description: 
 group: advanced
 toc: true
 ---
-
 
 ### calling an API using apikey authentication
 

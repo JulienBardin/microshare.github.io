@@ -1,6 +1,6 @@
 ---
-layout: docs
 title: Touchfree App JSON
+layout: docs
 description: 
 toc: true
 ---

@@ -1,6 +1,6 @@
 ---
-layout: docs
 title: Data Unpacking
+layout: docs
 description: How your data is decrypted and delivered to you
 toc: true
 ---

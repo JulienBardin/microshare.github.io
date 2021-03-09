@@ -1,6 +1,6 @@
 ---
-layout: docs
 title: Contact Tracing
+layout: docs
 description: 
 toc: true
 ---

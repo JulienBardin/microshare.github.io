@@ -1,6 +1,6 @@
 ---
-layout: docs
 title: Trending Air Quality JSON
+layout: docs
 description: 
 toc: true
 ---

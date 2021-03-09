@@ -1,6 +1,6 @@
 ---
-layout: docs
 title: Getting Started
+layout: docs
 description: 
 group: getting-started
 toc: true

@@ -1,10 +1,9 @@
 ---
-layout: docs
 title: Overview
+layout: docs
 description: Let's take a look at the Microshare™ data structure.
 toc: true
 ---
-
 
 ---------------------------------------
 

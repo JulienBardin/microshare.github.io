@@ -1,6 +1,6 @@
 ---
-layout: docs
 title: The Advanced Developer's Roadmap to Microshare™
+layout: docs
 toc: true
 ---
 

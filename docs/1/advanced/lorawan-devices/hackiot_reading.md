@@ -1,7 +1,7 @@
 ---
-layout: docs
 title: HackIoT Reading Workshop
-description:
+layout: docs
+description: 
 group: advanced
 toc: true
 ---

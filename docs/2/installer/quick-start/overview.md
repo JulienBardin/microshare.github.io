@@ -1,6 +1,6 @@
 ---
-layout: docs
 title: Overview
+layout: docs
 description: Installation Overview
 toc: true
 ---

@@ -1,9 +1,9 @@
 ---
-layout: docs
 title: LoRaWAN DEvices
-
+layout: docs
 toc: true
 ---
+
 ---------------------------------------
 
 ##### SUMMARY : 

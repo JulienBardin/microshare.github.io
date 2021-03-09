@@ -1,7 +1,7 @@
 ---
-layout: docs
 title: Read and Write records from the microshare datalake
-description:
+layout: docs
+description: 
 group: advanced
 toc: true
 ---

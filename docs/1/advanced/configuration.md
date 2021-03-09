@@ -1,7 +1,8 @@
 ---
-layout: docs
 title: Configuration Referenced
+layout: docs
 description: Coming soon
 group: advanced
 toc: true
 ---
+

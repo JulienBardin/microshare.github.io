@@ -1,7 +1,7 @@
 ---
-layout: docs
 title: Integrating microshare into Senet
-description:
+layout: docs
+description: 
 group: advanced
 toc: true
 ---

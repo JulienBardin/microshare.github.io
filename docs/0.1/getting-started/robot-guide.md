@@ -1,6 +1,6 @@
 ---
-layout: docs
 title: Robot Guide
+layout: docs
 description: Comprehensive guide to understand Robots
 group: getting-started
 toc: true

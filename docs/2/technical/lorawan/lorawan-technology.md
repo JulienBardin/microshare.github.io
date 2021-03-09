@@ -1,6 +1,6 @@
 ---
-layout: docs
 title: LoRaWAN Technology
+layout: docs
 description: What is LoRaWan?
 toc: true
 ---

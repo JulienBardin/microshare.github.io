@@ -1,10 +1,8 @@
 ---
-layout: docs
 title: First Step as a Microshare™ Admin
-
+layout: docs
 toc: true
 ---
-
 
 ---------------------------------------
 

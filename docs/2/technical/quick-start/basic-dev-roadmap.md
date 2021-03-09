@@ -1,6 +1,6 @@
 ---
-layout: docs
 title: Getting Started with Development
+layout: docs
 toc: true
 ---
 

@@ -1,10 +1,9 @@
 ---
-layout: docs
 title: App Facts
+layout: docs
 description: Links do JSON Examples
 toc: true
 ---
-
 
 ## [Postman Collection](/docs/2/technical/microshare-platform/app-config-examples/postman-collection)
 

@@ -1,7 +1,6 @@
 ---
-layout: docs
 title: Device Cluster Guide
-
+layout: docs
 toc: true
 ---
 

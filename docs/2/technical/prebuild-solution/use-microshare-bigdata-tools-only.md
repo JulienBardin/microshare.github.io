@@ -1,6 +1,6 @@
 ---
-layout: docs
 title: title
+layout: docs
 description: description
 toc: true
 ---

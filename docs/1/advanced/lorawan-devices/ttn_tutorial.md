@@ -1,7 +1,7 @@
 ---
-layout: docs
 title: The Things Network (TTN) & Microshare integration
-description:
+layout: docs
+description: 
 group: advanced
 toc: true
 ---

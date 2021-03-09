@@ -1,6 +1,6 @@
 ---
-layout: docs
 title: Data Workflow
+layout: docs
 description: 
 toc: true
 ---

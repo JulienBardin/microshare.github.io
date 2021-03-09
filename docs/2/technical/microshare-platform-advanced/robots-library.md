@@ -1,6 +1,6 @@
 ---
-layout: docs
 title: Robot Libraries
+layout: docs
 description: snippets of usable lib methods from Robots
 toc: true
 ---

@@ -1,10 +1,9 @@
 ---
-layout: docs
 title: Create an Account
+layout: docs
 description: Follow this quick introduction to create your account.
 toc: true
 ---
-
 
 ---------------------------------------
 

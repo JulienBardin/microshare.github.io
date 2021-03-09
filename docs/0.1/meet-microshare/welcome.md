@@ -1,12 +1,13 @@
 ---
-layout: docs
 title: Welcome
-description: Get started with microshare™, the world's only prebuilt, scalable data management and sharing solution for IoT.
+layout: docs
+description: Get started with microshare™, the world's only prebuilt, scalable data
+  management and sharing solution for IoT.
 group: meet-microshare
 redirect_from:
-  - /
-  - /docs/
-  - /docs/1/
+- "/"
+- "/docs/"
+- "/docs/1/"
 toc: true
 ---
 

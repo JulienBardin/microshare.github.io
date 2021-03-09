@@ -1,6 +1,6 @@
 ---
-layout: docs
 title: Why LoRaWan ?
+layout: docs
 description: Why do we think LoRaWan is the best IoT technology?
 toc: true
 ---

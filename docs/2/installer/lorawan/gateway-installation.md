@@ -1,10 +1,9 @@
 ---
-layout: docs
 title: Install the gateway
+layout: docs
 description: 
 toc: true
 ---
-
 
 ## 1. Introduction
 ---------------------------------------

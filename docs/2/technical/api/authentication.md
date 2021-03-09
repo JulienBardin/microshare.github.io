@@ -1,6 +1,6 @@
 ---
-layout: docs
 title: Authentication
+layout: docs
 description: Security is our watchword when it comes to data access.
 toc: true
 ---

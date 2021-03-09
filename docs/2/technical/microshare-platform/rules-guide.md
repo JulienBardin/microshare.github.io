@@ -1,10 +1,9 @@
 ---
-layout: docs
 title: Rules Guide
+layout: docs
 description: Comprehensive guide to understand rules
 toc: true
 ---
-
 
 ---------------------------------------
 

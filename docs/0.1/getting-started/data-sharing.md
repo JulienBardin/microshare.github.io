@@ -1,6 +1,6 @@
 ---
-layout: docs
 title: Data Sharing
+layout: docs
 description: The concept of sharing data
 group: getting-started
 toc: true

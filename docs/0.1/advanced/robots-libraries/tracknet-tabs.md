@@ -1,7 +1,7 @@
 ---
-layout: docs
 title: Decoding TrackNet Tabs V1.1
-description:
+layout: docs
+description: 
 group: advanced
 toc: true
 ---

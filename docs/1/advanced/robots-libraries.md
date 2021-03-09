@@ -1,6 +1,6 @@
 ---
-layout: docs
 title: Robots libraries
+layout: docs
 description: Useful methods from Robot libraries
 group: advanced
 toc: true

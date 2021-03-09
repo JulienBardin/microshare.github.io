@@ -1,6 +1,6 @@
 ---
-layout: docs
 title: Realtime Desk Availability App JSON
+layout: docs
 description: 
 toc: true
 ---

@@ -1,6 +1,6 @@
 ---
-layout: docs
 title: Microshare™ Glossary
+layout: docs
 description: Confused on any common Microshare™ terms?
 toc: true
 ---

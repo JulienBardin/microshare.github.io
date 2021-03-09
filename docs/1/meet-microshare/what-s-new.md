@@ -1,6 +1,6 @@
 ---
-layout: docs
 title: What's new?
+layout: docs
 description: Take a look at our latest updates
 group: meet-microshare
 toc: true

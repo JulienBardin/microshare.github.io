@@ -1,7 +1,7 @@
 ---
-layout: docs
 title: System Workbench ST32 IDE
-description:
+layout: docs
+description: 
 group: advanced
 toc: true
 ---

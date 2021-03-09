@@ -1,6 +1,6 @@
 ---
-layout: docs
 title: How to Configure a Guest Access App
+layout: docs
 toc: true
 ---
 

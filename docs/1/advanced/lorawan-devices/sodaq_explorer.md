@@ -1,7 +1,7 @@
 ---
-layout: docs
 title: SODAQ ExpLoRer
-description:
+layout: docs
+description: 
 group: lorawan-devices
 toc: true
 ---

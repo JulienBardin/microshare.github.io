@@ -1,6 +1,6 @@
 ---
-layout: docs
 title: Views Guide
+layout: docs
 description: Comprehensive guide to understand Views
 toc: true
 ---

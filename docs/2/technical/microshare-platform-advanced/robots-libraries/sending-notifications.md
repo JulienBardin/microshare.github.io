@@ -1,7 +1,7 @@
 ---
-layout: docs
 title: Sending Notifications from Robots
-description:
+layout: docs
+description: 
 group: advanced
 toc: true
 ---

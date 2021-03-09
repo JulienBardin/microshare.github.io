@@ -1,6 +1,6 @@
 ---
-layout: docs
 title: Registration
+layout: docs
 description: A comprehensive guide to install some sensors with Deploy-M
 group: deploy-m
 toc: true

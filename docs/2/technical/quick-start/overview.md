@@ -1,6 +1,6 @@
 ---
-layout: docs
 title: Technical Overview
+layout: docs
 description: A guide to interacting with Microshare™ Technology
 toc: true
 ---

@@ -1,7 +1,7 @@
 ---
-layout: docs
 title: Decoding Globalsat LT-100
-description:
+layout: docs
+description: 
 group: advanced
 toc: true
 ---

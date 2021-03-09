@@ -1,6 +1,6 @@
 ---
-layout: docs
 title: Google Pub/ Sub Integration
+layout: docs
 description: 
 toc: true
 ---

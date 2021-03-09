@@ -1,6 +1,6 @@
 ---
-layout: docs
 title: Microshares Guide
+layout: docs
 description: Comprehensive guide to understand microshares
 group: getting-started
 toc: true

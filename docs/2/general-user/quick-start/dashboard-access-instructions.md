@@ -1,6 +1,6 @@
 ---
-layout: docs
 title: Microshare™ Dashboard Access Instructions
+layout: docs
 description: How to create an account for new users
 toc: true
 ---

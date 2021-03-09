@@ -1,9 +1,8 @@
 ---
-layout: docs
 title: Quick Start to the Microshare™ Platform
+layout: docs
 toc: true
 ---
-
 
 ---------------------------------------
 

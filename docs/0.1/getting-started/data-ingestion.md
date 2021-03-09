@@ -1,6 +1,6 @@
 ---
-layout: docs
 title: Data Ingestion
+layout: docs
 description: Guide to Data Ingestion
 group: getting-started
 toc: true

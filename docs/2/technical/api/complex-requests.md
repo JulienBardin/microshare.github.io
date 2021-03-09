@@ -1,6 +1,6 @@
 ---
-layout: docs
 title: Complex API Request
+layout: docs
 description: Push your knowledge of the Microshare™ APIs a little more
 toc: true
 ---

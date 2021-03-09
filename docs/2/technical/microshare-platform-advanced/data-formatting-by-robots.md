@@ -1,6 +1,6 @@
 ---
-layout: docs
 title: Data Unpacking by Robots
+layout: docs
 description: Robot examples to build a Data Workflow
 toc: true
 ---

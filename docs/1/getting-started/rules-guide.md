@@ -1,6 +1,6 @@
 ---
-layout: docs
 title: Rules Guide
+layout: docs
 description: 
 group: getting-started
 toc: true

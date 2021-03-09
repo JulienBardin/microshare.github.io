@@ -1,6 +1,6 @@
 ---
-layout: docs
 title: Facts Guide
+layout: docs
 description: 
 group: getting-started
 toc: true

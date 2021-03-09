@@ -1,10 +1,8 @@
 ---
-layout: docs
 title: Identity Admin
-
+layout: docs
 toc: true
 ---
-
 
 ### Providing Client Access via Microshare® to the identity
 ---------------------------------------

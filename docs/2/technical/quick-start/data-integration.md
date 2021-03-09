@@ -1,7 +1,7 @@
 ---
-layout: docs
 title: Data Integration
-description : Which pages can help me with data integration?
+layout: docs
+description: Which pages can help me with data integration?
 toc: true
 ---
 

@@ -1,6 +1,6 @@
 ---
-layout: docs
 title: Device Declaration
+layout: docs
 description: description
 toc: true
 ---

@@ -1,6 +1,6 @@
 ---
-layout: docs
 title: Realtime Temperature App JSON
+layout: docs
 description: 
 toc: true
 ---

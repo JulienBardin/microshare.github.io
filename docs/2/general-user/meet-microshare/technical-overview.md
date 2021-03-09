@@ -1,10 +1,9 @@
 ---
-layout: docs
 title: Technical Overview
+layout: docs
 description: Designed for embedded systems
 toc: true
 ---
-
 
 ---------------------------------------
 

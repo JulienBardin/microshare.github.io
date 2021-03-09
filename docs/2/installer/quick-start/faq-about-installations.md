@@ -1,9 +1,10 @@
 ---
-layout: docs
 title: FAQ about installation
+layout: docs
 description: 
 toc: true
 ---
+
 ---------------------------------------
 ## Summary
 

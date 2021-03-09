@@ -1,9 +1,10 @@
 ---
-layout: docs
 title: Why Microshare™?
+layout: docs
 description: Microshare™'s patent-pending Policy Fabric™ enables the IoT economy.
 toc: true
 ---
+
 ---------------------------------------
 
 

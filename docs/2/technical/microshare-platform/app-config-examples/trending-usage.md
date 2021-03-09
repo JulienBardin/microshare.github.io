@@ -1,6 +1,6 @@
 ---
-layout: docs
 title: Trending Usage JSON
+layout: docs
 description: 
 toc: true
 ---

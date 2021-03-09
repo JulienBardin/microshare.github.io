@@ -1,6 +1,6 @@
 ---
-layout: docs
 title: Touchfree Feedback Backboard Config Template
+layout: docs
 description: 
 toc: true
 ---

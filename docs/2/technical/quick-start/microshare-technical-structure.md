@@ -1,6 +1,6 @@
 ---
-layout: docs
 title: The Microshare™ Technical Structure
+layout: docs
 toc: true
 ---
 

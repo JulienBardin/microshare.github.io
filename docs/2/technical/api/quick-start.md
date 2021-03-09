@@ -1,6 +1,6 @@
 ---
-layout: docs
 title: API Quick Start
+layout: docs
 toc: true
 ---
 

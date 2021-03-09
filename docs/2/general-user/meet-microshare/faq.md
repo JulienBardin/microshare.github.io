@@ -1,6 +1,6 @@
 ---
-layout: docs
 title: FAQ
+layout: docs
 description: Have a question?
 toc: true
 ---

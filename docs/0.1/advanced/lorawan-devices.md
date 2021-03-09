@@ -1,7 +1,7 @@
 ---
-layout: docs
 title: LoRaWAN Devices
-description:
+layout: docs
+description: 
 group: advanced
 toc: true
 ---

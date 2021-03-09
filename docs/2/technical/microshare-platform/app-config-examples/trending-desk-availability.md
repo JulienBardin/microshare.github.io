@@ -1,6 +1,6 @@
 ---
-layout: docs
 title: Trending Desk Availability JSON
+layout: docs
 description: 
 toc: true
 ---

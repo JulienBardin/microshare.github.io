@@ -1,6 +1,6 @@
 ---
-layout: docs
 title: Data Ingestion
+layout: docs
 description: How your data gets into the Microshare® Data Lake
 toc: true
 ---

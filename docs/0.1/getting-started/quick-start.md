@@ -1,6 +1,6 @@
 ---
-layout: docs
 title: Quick Start
+layout: docs
 description: Getting Set-up in Microshare
 group: getting-started
 toc: true
